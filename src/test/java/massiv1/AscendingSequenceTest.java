@@ -1,3 +1,6 @@
+package massiv1;
+
+import massiv1.AscendingSequence;
 import org.junit.Assert;
 import org.junit.Test;
 

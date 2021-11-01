@@ -1,6 +1,5 @@
-package massiv;
+package hw1516;
 
-import massiv.CompareArrays;
 import org.junit.Assert;
 import org.junit.Test;
 

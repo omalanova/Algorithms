@@ -1,4 +1,4 @@
-package stroki;
+package hw1718;
 
 import org.junit.Assert;
 import org.junit.Test;

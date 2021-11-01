@@ -1,4 +1,4 @@
-package massiv1;
+package hw1314;
 
 public class CompareNumbers {
     public int compareNumbers(int a, int b) {

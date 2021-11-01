@@ -1,3 +1,5 @@
+package massiv;
+
 import java.util.Arrays;
 
 public class CompareArrays {

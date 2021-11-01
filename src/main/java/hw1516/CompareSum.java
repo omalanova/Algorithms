@@ -1,3 +1,5 @@
+package hw1516;
+
 public class CompareSum {
     public boolean compareSum (int[] array) {
         if (array == null || array.length == 0 || array.length % 2 != 0) {
@@ -17,7 +19,7 @@ public class CompareSum {
     }
 
 //    public static void main(String[] args) {
-//        CompareSum cs = new CompareSum();
+//        massiv.CompareSum cs = new massiv.CompareSum();
 //        boolean cs1 = cs.compareSum(new int[]{12, 48, 15, 125});
 //        System.out.println(cs1);
 //    }

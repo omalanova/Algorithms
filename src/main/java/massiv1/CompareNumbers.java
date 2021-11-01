@@ -1,3 +1,5 @@
+package massiv1;
+
 public class CompareNumbers {
     public int compareNumbers(int a, int b) {
         if (a == b) return 0;

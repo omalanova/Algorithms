@@ -1,3 +1,6 @@
+package massiv;
+
+import massiv.CompareArrays;
 import org.junit.Assert;
 import org.junit.Test;
 

@@ -1,4 +1,4 @@
-package stroki;
+package hw1718;
 
 public class ChangeO {
     public static String outputChangeO(String str) {

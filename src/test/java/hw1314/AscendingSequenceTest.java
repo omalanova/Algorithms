@@ -1,6 +1,5 @@
-package massiv1;
+package hw1314;
 
-import massiv1.AscendingSequence;
 import org.junit.Assert;
 import org.junit.Test;
 

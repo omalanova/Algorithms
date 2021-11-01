@@ -1,4 +1,4 @@
-package stroki;
+package hw1718;
 
 public class CharOddIndex {
     public String outputCharOddIndex(String str) {

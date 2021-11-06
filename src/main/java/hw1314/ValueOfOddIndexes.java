@@ -1,4 +1,4 @@
-import java.util.Arrays;
+package hw1314;
 
 public class ValueOfOddIndexes {
     public int[] valueOfOdd (int[] array) {
@@ -17,11 +17,11 @@ public class ValueOfOddIndexes {
         arr1.valueOfOdd(new int[] {-45, 590, 234, 985, 12, 68});
         System.out.println();
 
-//        ValueOfOddIndexes arr2 = new ValueOfOddIndexes();
+//        massiv1.ValueOfOddIndexes arr2 = new massiv1.ValueOfOddIndexes();
 //        arr2.ascendingSequence(10, 10, 2);
 //        System.out.println();
 //
-//        ValueOfOddIndexes arr3 = new ValueOfOddIndexes();
+//        massiv1.ValueOfOddIndexes arr3 = new massiv1.ValueOfOddIndexes();
 //        arr3.ascendingSequence(10, -25, -5);
 
     }

@@ -1,4 +1,4 @@
-import java.util.Arrays;
+package hw1516;
 
 public class ZeroSum {
         public int[] zeroSum (int[] array) {
@@ -18,7 +18,7 @@ public class ZeroSum {
     }
 
 //    public static void main(String[] args) {
-//        ZeroSum zs = new ZeroSum();
+//        massiv.ZeroSum zs = new massiv.ZeroSum();
 //        int[] array_new = zs.zeroSum(new int[]{35, 23, 12, 89, -23, -48, 100});
 //        System.out.println(Arrays.toString(array_new));
 //    }
